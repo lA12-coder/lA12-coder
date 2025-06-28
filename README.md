@@ -1,6 +1,6 @@
 # Hi there, I'm Lidet Admassu! 👋
 
-![Banner Image](https://imgur.com/a/hOmWCt1)
+![Banner Image](https://github.com/lA12-coder/lA12-coder/blob/main/ChatGPT%20Image%20Jun%2029,%202025,%2012_49_34%20AM.png?raw=true)
 
 ## About Me 🚀
 
