@@ -21,7 +21,6 @@ I'm a passionate **Fullstack software developer and Graphics designer** with exp
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
@@ -31,7 +30,7 @@ I'm a passionate **Fullstack software developer and Graphics designer** with exp
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
+### [E-commerce website](project_2_link)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
@@ -39,8 +38,8 @@ I'm a passionate **Fullstack software developer and Graphics designer** with exp
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[Personal Website / Blog]** https://lidetadmassu.netlify.app/
 - **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[Twitter]** https://x.com/LidetAdmassu
 
 
