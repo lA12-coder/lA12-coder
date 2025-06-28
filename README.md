@@ -1,6 +1,6 @@
 # Hi there, I'm Lidet Admassu! 👋
 
-[![Banner Image]](https://imgur.com/a/hOmWCt1)
+![Banner Image](https://imgur.com/a/hOmWCt1)
 
 ## About Me 🚀
 
