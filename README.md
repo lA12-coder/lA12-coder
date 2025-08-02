@@ -7,7 +7,7 @@
 I'm a passionate **Fullstack software developer and Graphics designer** with experience in **React, JavaScript, Python, MYSQL, and Figma**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Django**
-- 🔭 Working on: ** I am working to extablish my startup**
+- 🔭 Working on: ** I am working to establish my startup name as GeezGeeks**
 - 🌍 Languages: **I am Fluent in English and Amharic**
 - 📫 How to reach me: **lidetadmassu217@outlook.com**
 - ⚡ Fun fact: **I feel satisfied when I am busy and do something new**
@@ -28,18 +28,17 @@ I'm a passionate **Fullstack software developer and Graphics designer** with exp
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**I am working on it."
 
-### [E-commerce website](project_2_link)
+### [Gym Fitness website](https://fitnessclubgymwebsite.netlify.app/)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![Project 2 Screenshot](https://github.com/lA12-coder/lA12-coder/blob/main/Screenshot%202025-08-01%20224502.png)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**This Fitness Website** is a **simple, responsive, and clean website that shows services provided by the Gym** It is built with **React**. This project showcases my skills in **React, HTML, and Advanced CSS animations**. You can check out the repository [here](https://github.com/GeezGeeks-Tech-Solution/Fitness-Club-Website).
 
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]** https://lidetadmassu.netlify.app/
-- **[LinkedIn]**(your_linkedin_profile_link)
 - **[Twitter]** https://x.com/LidetAdmassu
 
 
