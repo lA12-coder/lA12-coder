@@ -6,7 +6,6 @@
 
 I'm a passionate **Fullstack software developer and Graphics designer** with experience in **React, JavaScript, Python, MYSQL, and Figma**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **Django**
 - 🔭 Working on: ** I am working to establish my startup name as GeezGeeks**
 - 🌍 Languages: **I am Fluent in English and Amharic**
 - 📫 How to reach me: **lidetadmassu217@outlook.com**
@@ -24,15 +23,15 @@ I'm a passionate **Fullstack software developer and Graphics designer** with exp
 
 ## Featured Projects 💻
 
-### [Hotel Management System](project_1_link)
+### [Beauty House Appointment Management System](https://elegance-beauty-house.netlify.app/)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![](https://github.com/lA12-coder/lA12-coder/blob/main/Screenshot%202025-11-20%20235222.png)
 
-**I am working on it."
 
-### [Gym Fitness website](https://fitnessclubgymwebsite.netlify.app/)
 
-![Project 2 Screenshot](https://github.com/lA12-coder/lA12-coder/blob/main/Screenshot%202025-08-01%20224502.png)
+### [Gym Fitness websit](https://fitnessclubgymwebsite.netlify.app/)
+
+![](https://github.com/lA12-coder/lA12-coder/blob/main/Screenshot%202025-08-01%20224502.png)
 
 **This Fitness Website** is a **simple, responsive, and clean website that shows services provided by the Gym** It is built with **React**. This project showcases my skills in **React, HTML, and Advanced CSS animations**. You can check out the repository [here](https://github.com/GeezGeeks-Tech-Solution/Fitness-Club-Website).
 
