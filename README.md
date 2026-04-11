@@ -37,7 +37,7 @@ I'm a passionate **Fullstack software developer and Graphics designer** with exp
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]** https://lidetadmassu.netlify.app/
+- **[Personal Website / Blog]*
 - **[Twitter]** https://x.com/LidetAdmassu
 
 
