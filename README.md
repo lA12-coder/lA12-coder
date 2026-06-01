@@ -137,18 +137,6 @@ An **enterprise-grade inventory management system** with multi-warehouse support
 
 </div>
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lA12-coder&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff&ring_color=00FFB3)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lA12-coder&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=ffffff)
-
-</div>
-
 ---
 
 ## `> cat ./currently_exploring.md`
