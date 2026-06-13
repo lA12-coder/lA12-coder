@@ -27,7 +27,7 @@
 ```yaml
 name:       Lidet Admassu
 title:      Full Stack Developer & AI Engineer
-location:   Adama, Ethiopia 🇪🇹
+location:   Addis Ababa, Ethiopia 🇪🇹
 university: Adama Science & Technology University (ASTU)
 languages:  English (Fluent) · Amharic (Native)
 focus:      Building scalable systems where design meets robust engineering
