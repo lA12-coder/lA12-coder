@@ -9,7 +9,7 @@
 ╚══════╝╚═╝╚═════╝ ╚══════╝   ╚═╝  
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+AI+Engineer;Building+Intelligent+Systems;React+%7C+Django+%7C+PostgreSQL+%7C+Docker;Software+Engineering+%40+ASTU" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+AI+Engineer;Building+Intelligent+Systems;React+%7C+Django+%7C+PostgreSQL+%7C+Docker;" alt="Typing Animation" />
 
 <br/>
 
@@ -29,7 +29,6 @@ name:       Lidet Admassu
 title:      Full Stack Developer & AI Engineer
 location:   Adama, Ethiopia 🇪🇹
 university: Adama Science & Technology University (ASTU)
-year:       3rd Year, Software Engineering
 languages:  English (Fluent) · Amharic (Native)
 focus:      Building scalable systems where design meets robust engineering
 mission:    "Bridging elegant design, robust backend architecture, and AI."
