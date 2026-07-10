@@ -159,7 +159,7 @@ life_philosophy = "Spirituality is the basis of all true success in life."
 
 | Platform | Link |
 |:---:|:---:|
-| 🌐 **Portfolio** | [lidetadmassu.netlify.app](http://lidetadmassu.netlify.app/) |
+| 🌐 **Portfolio** | [lidetadmassu.dev](http://lidetadmassu.dev/) |
 | 💼 **LinkedIn** | [linkedin.com/in/lidtech](https://www.linkedin.com/in/lidtech) |
 | 🐦 **X / Twitter** | [@LidetAdmassu](https://x.com/LidetAdmassu) |
 | 📧 **Email** | [lidetadmassu217@outlook.com](mailto:lidetadmassu217@outlook.com) |
