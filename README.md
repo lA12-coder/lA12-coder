@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-00FFB3?style=for-the-badge&labelColor=0a0a0a&color=00FFB3&logoColor=0a0a0a)](http://lidetadmassu.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-00FFB3?style=for-the-badge&labelColor=0a0a0a&color=00FFB3&logoColor=0a0a0a)](http://lidetadmassu.dev/)
 [![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0077B5?style=for-the-badge&labelColor=0a0a0a&color=0077B5)](https://www.linkedin.com/in/lidtech)
 [![Email](https://img.shields.io/badge/◈_EMAIL-FF6B6B?style=for-the-badge&labelColor=0a0a0a&color=FF6B6B)](mailto:lidetadmassu217@outlook.com)
 [![Twitter/X](https://img.shields.io/badge/◈_X%2FTWITTER-ffffff?style=for-the-badge&labelColor=0a0a0a&color=ffffff)](https://x.com/LidetAdmassu)
